@@ -1,0 +1,2 @@
+projet[[:space:]]dataset/GlobalLandTemperaturesByCity.csv filter=lfs diff=lfs merge=lfs -text
+projet[[:space:]]dataset/clean[[:space:]]project[[:space:]]dataset/cleaned_GlobalLandTemperaturesByCity.csv filter=lfs diff=lfs merge=lfs -text
