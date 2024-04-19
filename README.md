@@ -6,6 +6,7 @@
 - Developed 2 interactive and 8 visual reports using Tableau dashboards, delivering data-driven insights and actionable recommendations.
 
 ## Data Source
+https://www.kaggle.com/datasets/berkeleyearth/climate-change-earth-surface-temperature-data
 The data, sourced from Kaggle, spans temperature trend data from 1740 to 2013 across 195 countries and their respective states, comprising approximately 600,000 entries of monthly temperature data in degrees Celsius.
 
 ## Data Cleaning
