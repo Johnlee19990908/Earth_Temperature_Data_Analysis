@@ -21,15 +21,18 @@ The data, sourced from Kaggle, spans temperature trend data from 1740 to 2013 ac
 - Identified trends:
   - Increase of 2 degrees Celsius since pre-industrial times (1850-1900).
   - Significant temperature rise post-1995, with a steep increase in the 20th century attributed to the industrial revolution.
+  
 ![Image 1](https://github.com/Johnlee19990908/Earth_Temperature_Data_Analysis/raw/main/git_image/1.png)
 
 ## Top US States Analysis
 - Analyzed temperature differences for 50 states from 1850 to 2013 using the global land temperatures by state dataset from Berkley Earth.
 - Calculated temperature differences and plotted top 10 states' temperature differences using Matplotlib.
+- 
 ![Image 2](https://github.com/Johnlee19990908/Earth_Temperature_Data_Analysis/raw/main/git_image/2.png)
 
 ## Top 10 Countries Analysis
 - Conducted temperature difference analysis for 195 countries and plotted top 5 countries with significant temperature differences.
+
 ![Image 3](https://github.com/Johnlee19990908/Earth_Temperature_Data_Analysis/raw/main/git_image/3.png)
 
 ## Forecasting using Linear Regression
